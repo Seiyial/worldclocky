@@ -1,0 +1,14 @@
+{
+   "eslint.format.enable": true,
+   "eslint.alwaysShowStatus": true,
+   "eslint.probe": [
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact"
+   ],
+   "emmet.excludeLanguages": [
+      "markdown"
+   ],
+   "typescript.preferences.quoteStyle": "single"
+}
